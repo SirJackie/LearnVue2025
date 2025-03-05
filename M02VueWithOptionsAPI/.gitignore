@@ -1,3 +1,6 @@
+# Offline Installers
+/wheels/
+
 # Logs
 logs
 *.log
